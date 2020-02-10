@@ -1,2 +1,0 @@
-# Escape-Room
-Game Development
